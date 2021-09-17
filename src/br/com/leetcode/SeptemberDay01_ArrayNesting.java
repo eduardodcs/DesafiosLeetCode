@@ -1,6 +1,6 @@
 package br.com.leetcode;
 
-public class ArrayNesting {
+public class SeptemberDay01_ArrayNesting {
 	
 //	You are given an integer array nums of length n where nums is a permutation of the numbers in the range [0, n - 1].
 //
